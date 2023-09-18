@@ -1,1 +1,1 @@
-console.log('success');
+throw new Error('wtf');
