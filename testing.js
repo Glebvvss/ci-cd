@@ -1,1 +1,1 @@
-throw new Error('sss');
+console.log('success');
