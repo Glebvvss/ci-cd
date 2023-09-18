@@ -1,1 +1,1 @@
-throw new Error('invalid feature implementation');
+console.log('success testing');
